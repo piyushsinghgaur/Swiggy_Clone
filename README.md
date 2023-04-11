@@ -31,11 +31,11 @@ Just fork it and you are good to go.
 
 ## Authors
 
-👤 **Atul Kumar**
+👤 **Piyush Singh Gaur**
 
-- Github: [@Atul Kumar](https://github.com/in-imitable)
-- Linkedin: [Atul Kumar](https://www.linkedin.com/in/atul-kumar-6aa351154/)
-- Email: (atul69030@gmail.com)
+- Github: [@Piyush Singh Gaur](https://github.com/in-imitable))
+- Linkedin: [Piyush Singh Gaur](https://www.linkedin.com/in/piyushsinghgaur/)
+- Email: (piyushsinghgaur01.com)
 
 ## 🤝 Contributing
 
