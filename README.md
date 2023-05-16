@@ -1,5 +1,5 @@
 # Swiggy-Clone
-Make Swiggy Clone Website using HTML/CSS.
+Swiggy Clone Website using HTML/CSS.
 
 **Preview:** [Demo Swiggy Clone](https://swiggyclone.in-imitable.repl.co)
 
@@ -15,37 +15,18 @@ The user can view restaurants of different categories here & can filter them acc
 
 ![alt text](https://github.com/in-imitable/Swiggy-Clone/blob/master/project_img/Screenshot%20(54).png)
 
-## Getting Started
-
-**Just fork it and feel free to use it.**
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 Having a web browser, code editor and git.
 
-### Install
-
-Just fork it and you are good to go.
-
-## Authors
+## Author
 
 👤 **Piyush Singh Gaur**
 
-- Github: [@Piyush Singh Gaur](https://github.com/piyushsinghgaur)
+- Github: [Piyush Singh Gaur](https://github.com/piyushsinghgaur)
 - Linkedin: [Piyush Singh Gaur](https://www.linkedin.com/in/piyushsinghgaur/)
 - Email: (piyushsinghgaur01@gmail.com)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
 
 - We take all the responsiblity for every signle line of code. The desgin is inspired from Swiggy.
