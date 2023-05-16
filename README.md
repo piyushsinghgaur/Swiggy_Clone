@@ -1,5 +1,5 @@
 # Swiggy-Clone
-Swiggy Clone Website using HTML/CSS.
+Swiggy Clone Website using HTML and CSS.
 
 **Preview:** [Demo Swiggy Clone](https://swiggyclone.in-imitable.repl.co)
 
